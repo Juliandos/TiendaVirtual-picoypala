@@ -84,4 +84,4 @@ Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archiv
 
 ---
 
-*Hecho con :heart: por [Tu Nombre](https://github.com/TuUsuario).*
+*Hecho con :heart: por [Julian Ortega](https://github.com/Juliandos).*

@@ -35,28 +35,28 @@
 
 	//Datos envio de correo
 	const NOMBRE_REMITENTE = "Tienda Virtual";
-	const EMAIL_REMITENTE = "no-reply@abelosh.com";
+	const EMAIL_REMITENTE = "95juliandos@gmail";
 	const NOMBRE_EMPESA = "Tienda Virtual";
-	const WEB_EMPRESA = "www.abelosh.com";
+	const WEB_EMPRESA = "julian ortega";
 
 	const DESCRIPCION = "La mejor tienda en línea con artículos de moda.";
 	const SHAREDHASH = "TiendaVirtual";
 
 	//Datos Empresa
-	const DIRECCION = "Avenida las Américas Zona 13, Guatemala";
-	const TELEMPRESA = "+(502)78787845";
-	const WHATSAPP = "+50278787845";
-	const EMAIL_EMPRESA = "info@abelosh.com";
-	const EMAIL_PEDIDOS = "info@abelosh.com"; 
-	const EMAIL_SUSCRIPCION = "info@abelosh.com";
-	const EMAIL_CONTACTO = "info@abelosh.com";
+	const DIRECCION = "Popayán Cauca, Colombia";
+	const TELEMPRESA = "+573117857025";
+	const WHATSAPP = "+573117857025";
+	const EMAIL_EMPRESA = "95juliandos@gmail.com";
+	const EMAIL_PEDIDOS = "95juliandos@gmail.com"; 
+	const EMAIL_SUSCRIPCION = "95juliandos@gmail.com";
+	const EMAIL_CONTACTO = "95juliandos@gmail.com";
 
 	const CAT_SLIDER = "1,2,3";
 	const CAT_BANNER = "4,5,6";
 	const CAT_FOOTER = "1,2,3,4,5";
 
 	//Datos para Encriptar / Desencriptar
-	const KEY = 'abelosh';
+	const KEY = 'Julian Ortega';
 	const METHODENCRIPT = "AES-128-ECB";
 
 	//Envío
@@ -98,8 +98,6 @@
 	const PROBUSCAR = 4;
 
 	//REDES SOCIALES
-	const FACEBOOK = "https://www.facebook.com/abelosh";
-	const INSTAGRAM = "https://www.instagram.com/febel24/";
-	
-
- ?>
+	const FACEBOOK = "https://www.facebook.com/";
+	const INSTAGRAM = "https://www.instagram.com/";
+	?>

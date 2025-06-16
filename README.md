@@ -78,10 +78,6 @@ Sigue estos pasos para configurar el proyecto en tu máquina local:
 
 ¡Las contribuciones son bienvenidas! Si tienes alguna idea o encuentras un error, por favor abre un issue o envía un pull request.
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
-
 ---
 
 *Hecho con :heart: por [Julian Ortega](https://github.com/Juliandos).*
